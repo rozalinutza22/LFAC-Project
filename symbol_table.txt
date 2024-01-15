@@ -1,0 +1,92 @@
+Variables: 
+name: b type:int value: 9 vizibilitate: globala
+
+
+name: a type:int value: 10 vizibilitate: globala
+
+
+name: i type:int value: 6 vizibilitate: globala
+
+
+name: rez type:int value: 18 vizibilitate: globala
+
+
+name: tr type:float value: 8.9 vizibilitate: globala
+
+
+name: tt type:float value: 5.6 vizibilitate: globala
+
+
+name: rezflt type:float value: 14.5 vizibilitate: globala
+
+
+name: c type:bool value: true vizibilitate: globala
+
+
+name: este type:bool value: true vizibilitate: globala
+
+
+name: st type:bool value: true vizibilitate: globala
+
+
+name: ana type:int value: 0 vizibilitate: globala
+
+
+name: vector type:int value: 0 vizibilitate: globala
+
+
+name: vb type:bool const value: true vizibilitate: globala
+
+
+name: caracter type:char value: d vizibilitate: globala
+
+
+name: cuvant type:string value: 'buna' vizibilitate: globala
+
+
+name: da type:int value: 0 function: f
+
+
+name: nu type:bool value: false function: f
+
+
+name: k type:int value: 0 function: f
+
+
+name: l type:int value: 9 class: n privacy: public
+
+name: j type:bool value: true class: n privacy: public
+
+name: o type:int value: 3 class: n privacy: private
+
+name: nup type:int value: 0 function: e
+
+
+name: daaap type:bool value: false function: e
+
+
+name: n type:none value:
+
+
+name: masina type:none value: class: n privacy: 
+
+name: param type:int value: 0 function: func
+
+
+name: q type:int value: 0 function: p
+
+
+name: w type:int value: 0 function: p
+
+
+
+Functions: 
+name: f type: bool value: true tip_parametri: int bool 
+
+name: e type: int value: 8 className: n
+ tip_parametri: int bool 
+
+name: func type: int value: 5 tip_parametri: int 
+
+name: p type: int value: 0 tip_parametri: int int 
+
